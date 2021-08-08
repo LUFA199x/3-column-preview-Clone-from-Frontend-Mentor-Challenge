@@ -55,7 +55,7 @@
                    <footer>
                        <div class="attribution">
                            Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>
-                           Cloned by <a href="https://github.com/LUFA199x">LUFA</a>
+                           Cloned by <a href="https://github.com/LUFA199x">LUFA199X</a>
 
                        </div>
                    </footer>
