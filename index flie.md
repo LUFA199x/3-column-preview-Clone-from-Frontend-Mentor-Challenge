@@ -15,7 +15,7 @@
 </head>
 <body>
                    <main>
-                       <article class="first-column">
+                       <article class="first-columns">
 
                         <img src="icon-sedans.svg" alt="A car icon representing a sedan">
 
